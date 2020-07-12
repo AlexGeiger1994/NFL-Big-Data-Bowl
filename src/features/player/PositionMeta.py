@@ -1,4 +1,4 @@
-class PositionCount(object):
+class PositionMeta(object):
     
     # init count
    def __init__(self):
